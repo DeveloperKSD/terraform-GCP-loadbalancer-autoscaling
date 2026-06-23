@@ -336,3 +336,5 @@ This project demonstrates:
 * Cloud Monitoring
 * Infrastructure Automation
 * Load Testing Methodologies
+
+<img width="1339" height="556" alt="image" src="https://github.com/user-attachments/assets/ac37a96c-b89c-412c-9916-edb674e52c76" />
